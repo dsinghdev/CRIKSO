@@ -46,13 +46,12 @@ CREATE TABLE IF NOT EXISTS `admin` (
 --
 
 INSERT INTO `admin` (`id`, `firstname`, `username`, `password`, `email`, `role`, `isPresent`, `isActive`) VALUES
-(11, 'Md:Moniruzzaman Aurangzeb', 'Moniruzzaman', 'moniruzzaman', 'monir150227@gmail.com', 'super_admin', 1, 0),
-(12, 'Md: Tanvir Hossain', 'Tanvir cse', 'tn12345', 'tanvir07@gmail.com', 'admin', 1, 0),
-(13, 'Shish Been Baha Uddin', 'Shish Been', 'been675r', 'shish150225@gmail.com', 'admin', 1, 0),
-(14, 'Zubaer Rayhan', 'Zubi cse', 'zubi0912', 'zubaer150208@gmail.com', 'admin', 1, 0),
-(17, 'Imran Hussain', 'imranvai', '123', 'imran1540@cseku.ac.bd', 'admin', 1, 1),
-(18, 'Ratul Haq', 'sql', '123', 'siamulhaqratul@gmail.com', 'admin', 1, 0),
-(19, 'Ratul Hossain Haq', 'admin', '123', '1234@gmail.com', NULL, 1, 0);
+(11, 'Hartej Singh', 'hartej', '12345', 'hartej50227@gmail.com', 'super_admin', 1, 0),
+(12, 'Damandeep Singh', 'damandeep', '12345', 'daman07@gmail.com', 'admin', 1, 0),
+(13, 'Damanjot Singh', 'damanjot', '12345', 'damanjot150225@gmail.com', 'admin', 1, 0),
+(14, 'Rahulpreet Singh', 'rahulpreet', '12345', 'rahul150208@gmail.com', 'admin', 1, 0),
+(17, 'Sahil', 'sahil', '12345', 'sahil1540@cseku.ac.bd', 'admin', 1, 1),
+(18, 'Japneet Singh', 'japneet', '12345', 'japneet@gmail.com', 'admin', 1, 0),
 
 -- --------------------------------------------------------
 
