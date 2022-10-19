@@ -19,7 +19,7 @@
 	   </ul>
 	</nav>
 	<section>
-		
+			<img src="image/ckt.jpg" alt="crickso logo" width="960" height="560">
 	</section>
 	<footer>
 		
