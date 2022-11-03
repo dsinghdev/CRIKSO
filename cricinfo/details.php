@@ -91,9 +91,8 @@
 	   <ul>
 			<li><a href="index.php">Home</a></li>
 			<li><a href="liveScores.php" ""target="_blank">Live scores</a></li>
-			<li><a href="#">Schedule</a></li>
-			<li><a href="#">News</a></li>
 			<li><a href="#">About</a></li>
+			<li><a href="admin/login.php">Admin Panel</a></li>
 
 	   </ul>
 	</nav>
